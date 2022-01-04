@@ -599,6 +599,9 @@ textarea.input {
 	margin-bottom: 10%;
 	width: 250px;
 }
+.mainblock__btn:hover {
+	background-color: #ffffff;
+}
 @media (max-width: 767.98px) {
 	.mainblock__btn {
 		margin-bottom: 5%;
@@ -1027,6 +1030,9 @@ textarea.input {
 }
 .form-contacts__btn.btn {
 	margin-top: 35px;
+}
+.form-contacts__btn:hover {
+	background-color: #000;
 }
 @media (max-width: 767.98px) {
 	.form-contacts__btn.btn {
